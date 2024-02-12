@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bogifa@gmail.com**
 
-- 📄 Know about my experiences [asdfghjk](asdfghjk)
+- 📄 Know about my experiences **[CV](https://github.com/BoglarkaFarkas/BoglarkaFarkas/blob/main/cv_farkas.pdf)**
 
 - ⚡ Fun fact **Besides enjoying mathematics and programming, I appreciate culture and relish traveling as well.**
 
